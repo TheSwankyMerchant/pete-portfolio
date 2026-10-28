@@ -4,42 +4,36 @@ This repository contains a starter template for Pete's portfolio. The project he
 
 ## Project Overview
 
-This portfolio website template serves as a foundation to showcase your projects, skills, and experience as a developer. It includes pre-designed sections for an introduction, project gallery, skills, and contact information. You are encouraged to modify and extend the design to fit your personal style.
+Pete' Portfolio is a responsive artist portfolio website built using HTML and CSS. The website include About, Portfolio, and Contact sections. The project demostrates the use of CSS Flexbox, typography, spacing, image styling, and layout techniques to create a clean, organized, and visually applealing website.
 
 ## Features
 
-- **Responsive Layout**: The template is designed to be mobile-friendly, ensuring that your portfolio looks great on all devices.
-- **Customizable Design**: Easily update images, colors, and content through the HTML and CSS files.
-- **Gallery Section**: Showcase your projects with space for project descriptions and links.
-- **Contact Form**: Pre-built form to collect inquiries and messages from visitors.
+- **About Section:** Displays Pete's profile image, introduction, artistic interests, and professional background.
+- **Portfolio Section:** Showcases three artwork images with titles and descriptions in a three-column layout.
+- **Contact Section:** Provides links to LinkedIn, Instagram, and Pinterest.
+- **CSS Styling:** Uses Flexbox, custom fonts, colors, spacing, and image styling to create a visually organized website.
+- **Centered Layout:** Uses CSS width and max-width properties to keep the main content centered on the webpage.
 
-## Installation
+## Technologies Used
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Thinkful-Ed/starter-pete-thinkful-portfolio.git
-   cd starter-pete-thinkful-portfolio
-   ```
+- **HTML5:** Structures the website's content, including headings, paragraphs, images, links, and sections.
+- **CSS3:** Controls colors, typography, spacing, and overall visual presentation.
+- **CSS Flexbox:** Arranges the About and Portfolio sections into horizontal layouts.
+- **CSS Media Queries:** Adjusts the About section layout for smaller screens.
+- **Visual Studio Code:** Code editor used to develop and modify the website.
+- **Live Server:** Provides real-time browser previews during development.
+- **Git:** Tracks changes and maintains version history.
+- **GitHub:** Hosts the project repository and source code.
+- **GitHub Pages:** Publishes the completed website online.
 
-2. **Open the project**:
-   You can simply open `index.html` in your browser to view the website locally.
+## Live Website
 
-## Getting Started
+View the completed portfolio website:
 
-Once you have the repository cloned, feel free to modify the HTML and CSS to add your personal details:
-- Update the **profile picture** and **about section** in `index.html`.
-- Add your own **project details** in the gallery section.
-- Customize colors and fonts in the `style.css` file to match your preferences.
+https://theswankymerchant.github.io/pete-portfolio/
 
-## Customization
+## GitHub Repository
 
-This template is meant to be a starting point. Here are some suggestions for customization:
-- Replace the placeholder images in the `images/` folder with your own.
-- Modify the layout, fonts, and colors in `style.css` to make it unique.
-- Add additional sections for skills, experience, or testimonials as needed.
+View the project source code:
 
-## Technologies
-
-- **HTML**: Structure of the web pages.
-- **CSS**: Styling and layout of the portfolio.
-- **Responsive Design**: Built with mobile-first principles in mind.
+https://github.com/TheSwankyMerchant/pete-portfolio
