@@ -40,12 +40,8 @@ https://github.com/TheSwankyMerchant/pete-portfolio
 
 ## Screenshots
 
-### About
-![About](screenshots/about.png)
+![About](About.png)
 
-### Portfolio
-![Portfolio](screenshots/portfolio.png)
+![Portfolio](Portfolio.png)
 
-### Commits
-![Commits](screenshots/commits.png)
-
+![Commits](Commits.png)
