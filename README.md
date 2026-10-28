@@ -40,11 +40,17 @@ https://github.com/TheSwankyMerchant/pete-portfolio
 
 ## Screenshots
 
+![Original About](Original-About.png)
+
 ![About](About.png)
+
+![Original Portfolio](Original-Portfolio.png)
 
 ![Portfolio](Portfolio.png)
 
 ![Commits](Commits.png)
+
+
 
 ## Design and Implementation Plan
 
