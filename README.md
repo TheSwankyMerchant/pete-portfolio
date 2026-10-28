@@ -40,11 +40,11 @@ https://github.com/TheSwankyMerchant/pete-portfolio
 
 ## Screenshots
 
-![Original About](Original-About.png)
+![Original About](Original%20About.png)
 
 ![About](About.png)
 
-![Original Portfolio](Original-Portfolio.png)
+![Original Portfolio](Original%20Portfolio.png)
 
 ![Portfolio](Portfolio.png)
 
@@ -54,7 +54,7 @@ https://github.com/TheSwankyMerchant/pete-portfolio
 
 ## Design and Implementation Plan
 
-Original Layout
+### Original Layout
 
 The original portfolio used a basic HTML and CSS structure with About, Portfolio, and Contact sections. The initial layout required improvements to spacing, alignment, and content organization.
 
