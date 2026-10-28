@@ -37,3 +37,15 @@ https://theswankymerchant.github.io/pete-portfolio/
 View the project source code:
 
 https://github.com/TheSwankyMerchant/pete-portfolio
+
+## Screenshots
+
+### About
+![About Section](screenshots/about.png)
+
+### Portfolio
+![Portfolio Section](screenshots/portfolio.png)
+
+### Commits
+![Git Commit History](screenshots/commits.png)
+
